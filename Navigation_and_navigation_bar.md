@@ -84,4 +84,4 @@ Home
 
 "navbar-expand-sm" expands when the screen size is above the "sm" breaking-point. "mr-auto" specifies the right-margin. So, the content will be pushed as left as possible, within the navigation bar. "nav-item" allows navigation items to be displayed horizontally.
 
-We can explicitly identify one of these links as active link, to tell the user that he/she are on that link. Use the "active" class to identify the current active link.
+We can explicitly identify one of these links as an active link, to tell the user that he/she are on that link. Use the "active" class to identify the current active link.
